@@ -87,7 +87,7 @@ $query4 = "SELECT * from store where SID='$user_check'";
     <!-- Navigation -->
     <nav class="navbar navbar-light bg-light static-top">
       <div class="container">
-        <a class="navbar-brand">JK Mart</a>
+        <a class="navbar-brand">CIT Mart</a>
         <a href="shome.php"><h5>Home</h5></a>
         <a href="sprofile.php"><h5>Profile</h5></a>
         <a href="ssales.php"><h5>Sales Report</h5></a>

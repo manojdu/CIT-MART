@@ -35,7 +35,7 @@ $query4 = "SELECT * from store where SID='$user_check'";
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Store Login- JK Mart</title>
+    <title>Store Login- CIT Mart</title>
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">

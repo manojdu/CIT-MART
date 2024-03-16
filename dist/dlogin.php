@@ -75,12 +75,12 @@ margin-left: 5%;
 </b></u></h2></div>
 <div>
 <h2><b>Contact Info</h2>
-									<li><a href="https://github.com/kirankumarsk">
+									<li><a href="https://github.com/manojdu">
 										<i class="fa fa-github"></i>
 										 <button style="font-size:17px;">GitHub</button></a></br></li>
-                   <li> <a href="#"><i class="fa fa-phone"></i> +91-9380783813</a></br></li>
-					<li><a href="#"><i class="fa fa-envelope-o"></i> kirankumarsk25820@gmail.com</a></br></li>
-					<li><a href="#"><i class="fa fa-map-marker"></i>Chikmaglur</a></li>
+                   <li> <a href="#"><i class="fa fa-phone"></i> +91-8431665052</a></br></li>
+					<li><a href="#"><i class="fa fa-envelope-o"></i> dumanoj2003@gmail.com</a></br></li>
+					<li><a href="#"><i class="fa fa-map-marker"></i>Tumkur</a></li>
 									</a>
 								</div>
 </body>
