@@ -69,6 +69,7 @@ $query4 = "SELECT * from dstbr where DID='$user_check'";
         <a href="dhome.php"><h5>Home</h5></a>
         <a href="dprofile.php"><h5>Profile</h5></a>
         <a href="dorders.php"><h5>Orders</h5></a>
+        <a href="logout1.php"><h5>Log Out</h5></a>
         <!--<a class="btn btn-primary" href="#">Sign In</a>-->
         
       </div>

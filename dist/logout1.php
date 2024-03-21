@@ -4,7 +4,7 @@
 session_start();
 if(session_destroy()) // Destroying All Sessions
 {
-header("Location: /superstore/index.php"); // Redirecting To Home Page
+header("Location: http://localhost/superstore-main"); // Redirecting To Home Page
 }
 ?>
 

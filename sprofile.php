@@ -9,8 +9,8 @@ $query4 = "SELECT * from store where SID='$user_check'";
               $para1 = $row4['SID'];
               $para2 = $row4['SBRANCHNAME'];
               $para3 = $row4['SCITY'];
-              $para4 = $row4['SREGION'];
-              $para5 = $row4['SSTATE'];
+              $para4 = $row4['SSTATE'];
+              $para5 = $row4['SCOUNTRY'];
               $para6 = $row4['SPCODE'];
               
 ?>
@@ -102,6 +102,8 @@ $query4 = "SELECT * from store where SID='$user_check'";
     <td>City:</td>
     <td><?php echo "$para3"?></td>
    </tr>
+   <tr>
+    
     <td>State:</td>
     <td><?php echo "$para4"?></td>
    </tr>
